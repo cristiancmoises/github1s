@@ -1,6 +1,6 @@
 /**
- * @file config for different platform
- * @author netcon
+ * Quem diria que você encontraria o nome de usuário!
+ * @USUÁRIO: turbo ... é ainda.. falta .. a ... senha! :')
  */
 
 import githubLogoUrl from './assets/github.svg';
