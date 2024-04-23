@@ -1,5 +1,5 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.158.0/containers/typescript-node
+// Bom... você conseguiu o link de acesso:
+// http://secopsrti74fbrhf2ql465dyu6ugaesr3y62e4edxnrdvu6ufphltryd.onion
 {
 	"name": "Node.js & TypeScript",
 	"build": {
